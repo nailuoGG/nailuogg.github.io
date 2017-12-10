@@ -3,19 +3,22 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 脉络
+subtitle: 记录思维的脉络
 description:
-author: John Doe
-language:
-timezone:
+author: nailuoGG
+language: zh
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://nailuogg.me
 root: /
-permalink: :year/:month/:day/:title/
+permalink: posts/:abbrlink/
 permalink_defaults:
+abbrlink:
+  alg: crc32  #support crc16(default) and crc32
+  rep: hex    #support dec(default) and hex
 
 # Directory
 source_dir: source
@@ -65,10 +68,32 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: landscape
 
+asset_pipeline:
+  revisioning:
+    enable: false
+  clean_css:
+    enable: true
+  uglify_js:
+    enable: true
+  imagemin:
+    enable: true
+  html_minifier:
+    enable: true
+
+cdn:
+  enable: true
+  base: //cdn.nailuogg.me
+  tags:
+    'img[data-orign]':  data-orign
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+- type: git
   repo: git@github.com:nailuoGG/nailuogg.github.io.git
-  branch: gh-pages 
+  branch: master 
 
+- type: sftp
+  host: 120.26.231.113
+  user: nailuoGG
+  remotePath: /var/www/blog/
+  port: 2204

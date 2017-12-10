@@ -17,6 +17,10 @@
     "hexo-server": "^0.2.0"
   },
   "devDependencies": {
-    "hexo-deployer-git": "^0.3.1"
+    "hexo-abbrlink": "^2.0.5",
+    "hexo-asset-pipeline": "^1.4.0",
+    "hexo-cdnify": "^0.0.1",
+    "hexo-deployer-git": "^0.3.1",
+    "hexo-deployer-sftp": "^0.1.0"
   }
 }
