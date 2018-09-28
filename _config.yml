@@ -12,7 +12,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://nailuogg.me
+url: https://liujiale.me
 root: /
 permalink: posts/:abbrlink/
 permalink_defaults:
@@ -83,7 +83,7 @@ asset_pipeline:
 
 cdn:
   enable: false
-  base: //cdn.nailuogg.me
+  base: //cdn.liujiale.me
   tags:
     'img[data-orign]':  data-orign
 # Deployment
