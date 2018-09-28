@@ -21,6 +21,7 @@
     "hexo-asset-pipeline": "^1.4.0",
     "hexo-cdnify": "^0.0.1",
     "hexo-deployer-git": "^0.3.1",
-    "hexo-deployer-sftp": "^0.1.0"
+    "hexo-deployer-sftp": "^0.1.0",
+    "hexo-renderer-sass": "^0.3.2"
   }
 }

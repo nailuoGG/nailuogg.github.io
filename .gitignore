@@ -1,3 +1,7 @@
 .deploy_git/
 db.json
 public/
+.idea/
+.vscode
+node_modules
+.DS_Store
