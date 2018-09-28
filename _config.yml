@@ -91,10 +91,4 @@ cdn:
 deploy:
 - type: git
   repo: git@github.com:nailuoGG/nailuogg.github.io.git
-  branch: master 
-
-- type: sftp
-  host: 120.26.231.113
-  user: nailuoGG
-  remotePath: /var/www/blog/
-  port: 2204
+  branch: master
