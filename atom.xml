@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>脉络</title>
+  
+  <subtitle>记录思维的脉络</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://liujiale.me/"/>
+  <updated>2018-11-22T13:35:09.810Z</updated>
+  <id>https://liujiale.me/</id>
+  
+  <author>
+    <name>nailuoGG</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于提高效率的一些思考</title>
+    <link href="https://liujiale.me/posts/e3be2127/"/>
+    <id>https://liujiale.me/posts/e3be2127/</id>
+    <published>2018-11-22T13:34:10.000Z</published>
+    <updated>2018-11-22T13:35:09.810Z</updated>
+    
+    <content type="html"><![CDATA[<p>我曾经看过很多关于工工作效率方面的书籍/文章，作者们通常会介绍一大堆的效率工具，思维方式，这让我十分着迷，每次见到带有“效率”“工具””提高“之类的标题总是迫不及待地去看，却忽略了去沉下心来实践。</p><p>打算将曾经看过的，印象比较深刻的一些书籍资料整理到一两篇文章中，应该可以缓解一下对这类内容的渴望，静心实现计划。</p><p>本文使用效率界比较流行的 ”道“ ”术“ ”器“来划分层次</p><h3 id="效率之道"><a href="#效率之道" class="headerlink" title="效率之道"></a>效率之道</h3><p>效率之道是人们如何面对工作，生活中种种繁杂的事务的处理算法。类似贪婪法，动态规划等等在计算机领域的作用。</p><p>然而道在中国道家含义中太过高大上，不能窥见全貌，本文用一些tip来尝试描述。</p><p>以下是一些比较有用的tips：</p><h4 id="帕累托法则"><a href="#帕累托法则" class="headerlink" title="帕累托法则"></a>帕累托法则</h4><p>维基百科的介绍：<a href="https://zh.wikipedia.org/wiki/%E5%B8%95%E7%B4%AF%E6%89%98%E6%B3%95%E5%88%99" target="_blank" rel="noopener">链接</a></p><p>这是笔者认为是本文最重要的一条tip。帕累托法则也叫二八定律，关键少数法则，80/20。首先要计划一个目标，然后列举对这个目标有所助益的所有因素。逐个以百分比形式确定因素的权重。通常会有一到两个因素能够到权重的80%。由此便可以将精力集中到少数几项最关键的事务中来。</p><p>按照帕累托法则来管理日常事务，能够让我们将更多精力放在对目标产生更多价值的事务上。例如：</p><p>目标1：与朋友建立稳定联系<br>因素：</p><ul><li>面对面聚餐交流</li><li>微信等社交媒体聊天</li></ul><p>目标2: 提升自身技术能力<br>因素：</p><ul><li>学习A</li><li>学习B</li><li>学习C</li></ul><p>目标3:升值加薪<br>因素：</p><ul><li>因素A</li><li>因素B</li><li>因素C</li></ul><h4 id="目标导向"><a href="#目标导向" class="headerlink" title="目标导向"></a>目标导向</h4><p>侧重于规划一段时间内的计划。例如年度计划，月计划等。</p><h4 id="精力管理"><a href="#精力管理" class="headerlink" title="精力管理"></a>精力管理</h4><p>我们有许多需要高度注意力的工作：持续工作，参与重要会议，发表演讲，同时也有必须在某个时间点完成的事情，比如收拾房间，参加约会。</p><p>前者需要在活动中保持精力旺盛，需要高度的注意力。而后者更重视在特定时间点完成。</p><p>增强精力的方法，参加能够增强心肺能力的体育活动，如长跑，深蹲，硬拉。</p><p>精力管理一方面要增强自己的体力，人终究是生物属性。</p><h3 id="效率之术"><a href="#效率之术" class="headerlink" title="效率之术"></a>效率之术</h3><h4 id="番茄工作法"><a href="#番茄工作法" class="headerlink" title="番茄工作法"></a>番茄工作法</h4><p>简单说就是将大任务拆分成30分钟内能够完成的小任务。</p><h4 id="GTD"><a href="#GTD" class="headerlink" title="GTD"></a>GTD</h4><p>步骤：</p><ul><li>收集</li><li>处理</li><li>管理</li><li>执行</li><li>回顾</li></ul><h4 id="ZTD"><a href="#ZTD" class="headerlink" title="ZTD"></a>ZTD</h4><p>由GTD优化而来 <a href="https://www.mifengtd.cn/articles/ztd-short-summary.html" target="_blank" rel="noopener">链接</a></p><ol><li>全面收集 简单记录</li><li>快速处理 计划重点</li><li>专心执行 回顾目标</li><li>简化任务 设定常规</li><li>信息系统 充满激情</li><li>全面收集 简单记录</li></ol><h3 id="效率之器"><a href="#效率之器" class="headerlink" title="效率之器"></a>效率之器</h3><p>善用工具能够切实地提高学习工作质量。如</p><ul><li>使用足够快速的电脑</li><li>便捷的分享软件</li><li>待办事项软件等</li><li>使用方便的浏览器</li><li>使用浏览器拓展</li><li>能够利用碎片时间的工具</li></ul><p>注意：虽然工具的确能够提升部分效率，但是不可在这上面花费太多精力。定期更新工具箱即可。</p><p>我的软件开发工具箱：</p><h4 id="GUI软件"><a href="#GUI软件" class="headerlink" title="GUI软件"></a>GUI软件</h4><ul><li>WebStorm</li><li>Chrome</li><li>MWeb</li><li>Omnifocus</li><li>Omnigraffle</li><li>Dingtalk</li><li>Surge</li><li>Word</li><li>Excel</li><li>1Password</li><li>Virtualbox</li><li>Reeder</li><li>Dash</li><li>iTerm2</li><li>Timing</li><li>Focus</li><li>Be Focused Pro</li><li>keepingYouAwake</li></ul><h4 id="cli-软件"><a href="#cli-软件" class="headerlink" title="cli 软件"></a>cli 软件</h4><ul><li>brew</li><li>pyenv</li><li>nvm</li><li>rbenv</li><li>mosh</li><li>tmux</li><li>wakeonlan</li><li>yarn</li><li>zsh</li></ul><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>所有的道术器，都是需要执行才能有所收获，最终目标都是为了实现个人的独立，获得更美满的生活。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我曾经看过很多关于工工作效率方面的书籍/文章，作者们通常会介绍一大堆的效率工具，思维方式，这让我十分着迷，每次见到带有“效率”“工具””提高“之类的标题总是迫不及待地去看，却忽略了去沉下心来实践。&lt;/p&gt;&lt;p&gt;打算将曾经看过的，印象比较深刻的一些书籍资料整理到一两篇文章中，
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>双十一前剁手小结</title>
+    <link href="https://liujiale.me/posts/b01c4693/"/>
+    <id>https://liujiale.me/posts/b01c4693/</id>
+    <published>2018-11-08T03:18:27.000Z</published>
+    <updated>2018-11-20T06:14:07.415Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文记录了双十一 前后一个月的消费支出，不一定全，但是都是让我印象深刻的。</p><h3 id="给自己："><a href="#给自己：" class="headerlink" title="给自己："></a>给自己：</h3><h4 id="配置了一台游戏-学习两用台式机"><a href="#配置了一台游戏-学习两用台式机" class="headerlink" title="配置了一台游戏/学习两用台式机"></a>配置了一台游戏/学习两用台式机</h4><p>国庆期间没有回家，自己DIY装配了一台比较高性能的台式电脑，目标是用于实验机器学习（打游戏）</p><p>配置表：i5 8600k + 索泰1080Ti + 华擎Z370主板 + LG 4k 显示器。全套在京东上买的，加起来将近两万了。</p><p>不过京东上套路还是很多，刚买就有配件降价，有CPU和主板换代，显卡出2080ti，赶在国庆节买真是血亏。</p><p>当时够买想法是拿来吃鸡/学习机器学习，算是一机两用了。1080显卡能带得动大部分游戏，做计算也没啥压力。然而，买完后大部分时间拿来体验各种游戏，塞满了256G 硬盘，还临时下单了个2T的硬盘，真是仓鼠症发作起来只有剁手能缓解。</p><p>不过学生时代的梦想总是完成一个了，开心😃。后期博客应该会更新一些机器学习相关的内容，</p><h4 id="凑齐了苹果三件套（MacBook-Pro，iPad-Pro，iPhone-6S）"><a href="#凑齐了苹果三件套（MacBook-Pro，iPad-Pro，iPhone-6S）" class="headerlink" title="凑齐了苹果三件套（MacBook Pro，iPad Pro，iPhone 6S）"></a>凑齐了苹果三件套（MacBook Pro，iPad Pro，iPhone 6S）</h4><p>双十一后还是没有忍住剁手欲望，淘宝某店入手了港版深空灰iPad Pro 11” + Apple pencil，就看PDF体验是好很多。打算拿来看PDF，效果应该比Kindle好太多。</p><p>到手后，体验一两日，确实如Apple的广告所说，除了名字，其他都变了。性能是有点过剩，可以外接显示器了，支持HDR效果，但是屏幕不是铺满全屏的。</p><p>总体上还是很棒的，重量和一本犀牛书差不多，还很薄。唯一的问题是想靠看书看回本是比较难了。</p><h4 id="尝试了下-SX-Pro-处理-Switch"><a href="#尝试了下-SX-Pro-处理-Switch" class="headerlink" title="尝试了下 SX Pro 处理 Switch"></a>尝试了下 SX Pro 处理 Switch</h4><p>买了两张Micro SD 卡，用在nintendo switch上，一张128G，一张256G。实际读取80MB/s左右，与标称的100MB/s有不小的差距，但是想想指甲盖那么大的地方就能存下250多G的资料，想想都觉得很厉害。</p><p>买了 SX Pro，标价49美元，实际扣款54.49美元，买贵了很多，折合人民币 378元。</p><p>能够引导爽系统，每次真-重新启动的时候需要插短接器和SX Pro，引导至破解桌面</p><p>破解完成后，做了双系统。破解系统主要拿来体验下单机游戏，原版系统拿来玩喷射战士。</p><h4 id="买了几本书"><a href="#买了几本书" class="headerlink" title="买了几本书"></a>买了几本书</h4><p>买了三本书，一本vocabulary builder，一本 word power made easy，一本on writing well，发觉自己在词汇量上的不足，很多意思无法准确得用语言表达出来，只能拐弯抹角得用简单词来描述。</p><p>后面想想自己英语最大的问题是发音不够标准。</p><h4 id="订购了一些软件-服务"><a href="#订购了一些软件-服务" class="headerlink" title="订购了一些软件/服务"></a>订购了一些软件/服务</h4><p>买了落格输入法 macOS 2，订阅了落格输入法 X，<del>网易云音乐黑胶会员</del>，哔哩哔哩年度大会员，<del>微信读书连续续费会员</del></p><p>hello talk 年度会员，是一个语言学习社交平台，语言学习用，但是目前还没有很好得利用起来。</p><p>报名了网上的日语学习课程，因为平常喜欢看动漫，有时候也会接触一些日语资料，游戏等，日语算是除了英语之外，接触得最多的一门外语了，于是想想自己要好好学一下。后来发现自己并没有这么多时间可以同时上两门语言课程，于是向老师申请冻结课程。</p><h4 id="做了基因检测"><a href="#做了基因检测" class="headerlink" title="做了基因检测"></a>做了基因检测</h4><p>买了微基因的基因检测服务，三百多，我主要关注建康相关的问题，营养摄入偏好，运动时要延长热身时间，生理规律，顺便看看患病风险等。</p><p>可以把自己的基因数据下载下来，是一个145M的纯文本。数据量还挺大的，后续也许能用到。</p><p>这次基因检测最大的作用是帮助我了解自己，从饮食，建康，疾病方面做一些建议。防范于未然。</p><h3 id="给猫咪准备了很多吃喝玩乐用品"><a href="#给猫咪准备了很多吃喝玩乐用品" class="headerlink" title="给猫咪准备了很多吃喝玩乐用品"></a>给猫咪准备了很多吃喝玩乐用品</h3><p>屯了猫粮，两包5.4kg，双十一付尾款，预计11月底才能到货，中间差点断粮，又赶紧在京东上买了一包1.48kg的猫粮</p><p>屯了猫砂，一箱lord猫砂，6Lx6;一箱子小佩猫砂6Lx5，就是做饮水机的牌子，再凑单同品牌的清洁套装，19块一袋很划算了。</p><p>买了猫玩具，一把高级的逗猫棒，可伸缩，可换羽毛，耐久应该好一些。到货后服役已达一个月，这是我买过的最好用的逗猫棒了，俩猫对它念念不忘。不像之前买的逗猫棒套装，一套40几块，送了很多猫咪不玩的小东西，正主逗猫棒反而很快就被玩秃了，弹力绳也没弹力。看样子一直有羽毛替换的话，能用很久。</p><h3 id="总结与展望"><a href="#总结与展望" class="headerlink" title="总结与展望"></a>总结与展望</h3><p>今年剁手了挺多东西的，买买买确实让我感到快乐，可是买完后就要头疼是否真的需要这些东西。</p><p>今年的高性能电脑，iPad Pro，年初买的switch，添置的机械键盘等等，这些电子产品对工作没有直接产出，毕竟上班干活还是用MacBook Pro比较多。</p><p>今年是剁手的一年，想买的大件也都买到手了，沸腾的物欲也可以消停一会。明年关注点移到技能、知识库、家庭上来。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;本文记录了双十一 前后一个月的消费支出，不一定全，但是都是让我印象深刻的。&lt;/p&gt;&lt;h3 id=&quot;给自己：&quot;&gt;&lt;a href=&quot;#给自己：&quot; class=&quot;headerlink&quot; title=&quot;给自己：&quot;&gt;&lt;/a&gt;给自己：&lt;/h3&gt;&lt;h4 id=&quot;配置了一台游戏-学习两用台
+      
+    
+    </summary>
+    
+    
+      <category term="购物" scheme="https://liujiale.me/tags/%E8%B4%AD%E7%89%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://liujiale.me/posts/4a17b156/"/>
+    <id>https://liujiale.me/posts/4a17b156/</id>
+    <published>2017-12-10T12:13:18.000Z</published>
+    <updated>2017-12-10T12:13:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
