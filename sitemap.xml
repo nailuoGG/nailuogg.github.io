@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://liujiale.me/tags/index.html</loc>
+    
+    <lastmod>2018-12-12T01:51:22.726Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://liujiale.me/categories/index.html</loc>
+    
+    <lastmod>2018-12-12T01:50:52.749Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://liujiale.me/archives/index.html</loc>
+    
+    <lastmod>2018-12-12T01:49:33.163Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://liujiale.me/about/index.html</loc>
+    
+    <lastmod>2018-12-12T01:49:11.470Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://liujiale.me/posts/e3be2127/</loc>
     
-    <lastmod>2018-11-22T13:35:09.810Z</lastmod>
+    <lastmod>2018-11-26T01:16:03.629Z</lastmod>
     
   </url>
   
