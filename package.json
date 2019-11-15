@@ -6,7 +6,8 @@
     "version": "3.9.0"
   },
   "scripts": {
-    "deploy":"hexo clean && hexo g -d"
+    "deploy":"hexo clean && hexo g -d",
+    "newPost":"echo '请输入文章名字' && read name && hexo new post ${name}"
   },
   "dependencies": {
     "hexo": "^3.2.0",
