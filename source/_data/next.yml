@@ -153,7 +153,7 @@ social:
   GitHub: https://github.com/nailuoGG || github
   E-Mail: mailto:nailuogg+blog@gmail.com || envelope
   Twitter: https://twitter.com/nailuoGG || twitter
-  Linkedin: https://www.linkedin.com/in/nailuogg/ || linkedin
+  # Linkedin: https://www.linkedin.com/in/nailuogg/ || linkedin
 
 social_icons:
   enable: true
